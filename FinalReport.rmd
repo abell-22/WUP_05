@@ -63,9 +63,12 @@ fisher.test(table1)
 ```
 
 P-Value equals 0.0000659  This number is so small that the results we found are not likely to occur by chance
-The odds ratio 1.543902 means the woman who got the drug were about 1.5 times more than likelt to get AIDS than women who got the placebo
+The odds ratio 1.543902 means the women who got the drug were about 1.5 times more than likelt to get AIDS than women who got the placebo
 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+
+The question was is the drug effective for females? The conclusion the drug was found to Not to be effective for females in preventing AIDS.
